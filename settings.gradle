@@ -1,2 +1,4 @@
 rootProject.name = 'pigeon'
+include 'Core'
+findProject(':Core')?.name = 'core'
 
