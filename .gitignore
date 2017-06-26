@@ -29,3 +29,7 @@ local.properties
 
 #NDK
 obj/
+
+gradle/
+gradlew
+gradlew.bat
