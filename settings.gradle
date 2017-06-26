@@ -1,4 +1,9 @@
 rootProject.name = 'pigeon'
 include 'Core'
 findProject(':Core')?.name = 'core'
+include 'Customer'
+include 'Inventory'
+include 'Sale'
+include 'Sale'
+include 'Logistic'
 
