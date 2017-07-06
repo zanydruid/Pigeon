@@ -1,5 +1,5 @@
 
-allprojects {
+subprojects {
     group 'io.zanydruid'
     version '1.0-SNAPSHOT'
 
