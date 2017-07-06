@@ -4,9 +4,6 @@ import lombok.Data;
 
 import javax.persistence.*;
 
-/**
- * Model maps to table Customer in DB.
- */
 @Data
 @Entity
 @Table(name="Customer")
