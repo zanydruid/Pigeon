@@ -6,9 +6,6 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
 
-/**
- * Created by yizhu on 7/5/17.
- */
 @Data
 @Entity
 @Table(name = "Province")
