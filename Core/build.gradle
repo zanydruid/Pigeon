@@ -1,14 +1,6 @@
-group 'io.zanydruid'
-version '1.0-SNAPSHOT'
-
-apply plugin: 'java'
-
-sourceCompatibility = 1.8
-
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'
-}
+//
+//configurations.all {
+//    resolutionStrategy {
+//        force "org.hibernate:hibernate-core:5.1.0.Final"
+//    }
+//}
